@@ -1,1 +1,3 @@
-my readme
+0x09 Python – Everything is an object Description This project centers on the object-oriented programming concept in Python. It discusses objects, classes, instances, immutable and mutable objects, references, assignments, aliases, and variable IDs, among other things. The project also contains questions about Python's uniqueness as well as the distinction between immutable and mutable types.
+
+Requirements The following tools are permitted: vi, vim, and emacs. All files were interpreted/compiled with python3 on Ubuntu 20.04 LTS. (version 3.8.5) All folders should be terminated with a new line. The first sentence of each file should be #!/usr/bin/python3. A README.md file at the base of the project folder is required. The pycodestyle (version 2.8.*) should be used in the code. Every program must be executable. wc will be used to determine the length of your folders.
