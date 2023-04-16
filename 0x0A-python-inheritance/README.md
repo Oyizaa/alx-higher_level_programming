@@ -1,4 +1,4 @@
-ntentions
+intentions
 
 You shoulLearning Id be able to explain the following to anyone at the conclusion of this assignment without using Google:
 
