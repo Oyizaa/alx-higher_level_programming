@@ -475,7 +475,7 @@
 #             Rectangle.save_to_file_csv()
 
 #     def test_save_to_file_csv_more_than_one_arg(self):
-[O#         with self.assertRaises(TypeError):
+#         with self.assertRaises(TypeError):
 #             Square.save_to_file_csv([], 1)
 
 
