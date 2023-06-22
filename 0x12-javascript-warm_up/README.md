@@ -1,1 +1,1 @@
-my readme
+JAVASCRIPT WARM UP PROJECT
